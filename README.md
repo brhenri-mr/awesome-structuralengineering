@@ -5,16 +5,20 @@ This project seeks to build an open list of tools, libraries on Structural Engin
 
 [Section Properties](https://github.com/robbievanleeuwen/section-properties) is a rich library written in Python for material mechanics. It implements analysis of any section using the finite element method
 
-## Concret Properties
+## Concrete Properties
 
-[Concret Properties](https://github.com/robbievanleeuwen/concrete-properties) is a rich library written in Python with a focus on reinforced concrete, Prestressed Sections, steel concrete composite sections. This library models sections with their geometric and physical properties, implementing detailed graphical views of stresses, bending moments, deformations, etc.
+[Concrete Properties](https://github.com/robbievanleeuwen/concrete-properties) is a rich library written in Python with a focus on reinforced concrete, Prestressed Sections, steel concrete composite sections. This library models sections with their geometric and physical properties, implementing detailed graphical views of stresses, bending moments, deformations, etc.
 
 ### Supports standards
 - Australian standard AS 3600:2018
 - New Zealand concrete design standard NZS3101:2006
 
 ### Features
--
+- [x] Biaxial Bending Moment
+- [x] Moment Curvature Response
+- [x] Stress Analysis
+- [x] Support .dxf
+- [ ] Material Database
 
 ## Symbeam
 
@@ -34,7 +38,16 @@ This project seeks to build an open list of tools, libraries on Structural Engin
 
 ## Pycba
 
-[Pycba](https://github.com/ccaprani/pycba?tab=readme-ov-file)
+[Pycba](https://github.com/ccaprani/pycba?tab=readme-ov-file) is a library focused on continuous beam analysis. The lib has a module dedicated to bridge analysis, including analysis of Critical Values and Positions, vehicle dataset, etc.
+
+### Supports standards
+- Australian standard AS 5100
+
+### Features
+- [x] Moving Load
+- [x] Envelopes
+- [x] Influence Lines
+
 
 ## pyCUFSM
 
