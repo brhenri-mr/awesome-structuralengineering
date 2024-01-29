@@ -84,3 +84,7 @@ This project seeks to build an open list of tools, libraries on Structural Engin
 ## anaStruct
 
 [anaStrcut](https://github.com/ritchie46/anaStruct)
+
+## PyNite
+
+[PyNite](https://github.com/JWock82/PyNite?tab=readme-ov-file)
