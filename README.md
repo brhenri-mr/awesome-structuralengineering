@@ -37,13 +37,9 @@ This project seeks to build an open list of tools, libraries on Structural Engin
 
 The only disadvantage of the lib is the lack of native plots. Libs written in mathlab focuses on reliability have natively plots of the number of iterations in FORM and Monte Carlo, in addition to other graphs
 
-## Fatpack
+## PyNite
 
-[Fatpack](https://github.com/Gunnstein/fatpack)
-
-## StructPy
-
-[StructPy](https://github.com/BrianChevalier/StructPy?tab=readme-ov-file)
+[PyNite](https://github.com/JWock82/PyNite?tab=readme-ov-file) is one of the most complete libraries written in Python for structure analysis. The module features analyzes in the 2d and 3d plane of linear, planar elements. Also provide load combinations, stability analysis and visualization of results and models (supports 3D)
 
 ## Pycba
 
@@ -93,10 +89,15 @@ The only disadvantage of the lib is the lack of native plots. Libs written in ma
 
 [anaStrcut](https://github.com/ritchie46/anaStruct)
 
-## PyNite
-
-[PyNite](https://github.com/JWock82/PyNite?tab=readme-ov-file)
 
 ## xlFrame
 
 [xlFrame](https://github.com/LcnGnd/xlFrame)
+
+## Fatpack
+
+[Fatpack](https://github.com/Gunnstein/fatpack)
+
+## StructPy
+
+[StructPy](https://github.com/BrianChevalier/StructPy?tab=readme-ov-file)
