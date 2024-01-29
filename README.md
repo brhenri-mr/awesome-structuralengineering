@@ -41,6 +41,12 @@ The only disadvantage of the lib is the lack of native plots. Libs written in ma
 
 [PyNite](https://github.com/JWock82/PyNite?tab=readme-ov-file) is one of the most complete libraries written in Python for structure analysis. The module features analyzes in the 2d and 3d plane of linear, planar elements. Also provide load combinations, stability analysis and visualization of results and models (supports 3D)
 
+### Features
+- [x] 3D structure analysis
+- [x] Plane analysis
+- [x] Load combinations
+
+
 ## Pycba
 
 [Pycba](https://github.com/ccaprani/pycba?tab=readme-ov-file) is a library focused on continuous beam analysis. The lib has a module dedicated to bridge analysis, including analysis of Critical Values and Positions, vehicle dataset, etc.
