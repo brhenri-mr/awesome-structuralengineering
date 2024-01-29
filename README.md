@@ -22,11 +22,20 @@ This project seeks to build an open list of tools, libraries on Structural Engin
 
 ## Symbeam
 
-[Symbeam](https://github.com/amcc1996/symbeam)
+[Symbeam](https://github.com/amcc1996/symbeam) is a library written in Python for educational purposes. The library models simple or continuous beams with different loading situations. The module has a plot of the bending moment, shear force and displacement of the element.
 
 ## Pystra
 
-[Pystra](https://github.com/pystra/pystra?tab=readme-ov-file)
+[Pystra](https://github.com/pystra/pystra?tab=readme-ov-file) is a library written in Python focused on structural reliability. The library has the most used methods for determining the design point, such as FOSM, FORM, Monte Carlo and SORM. Provide easy implementation of limit states and analyses, in addition to rich documentation and theory
+
+### Features
+- [x] FORM
+- [x] FOSM
+- [x] SORM
+- [x] Monte Carlo
+- [ ] Plot
+
+The only disadvantage of the lib is the lack of native plots. Libs written in mathlab focuses on reliability have natively plots of the number of iterations in FORM and Monte Carlo, in addition to other graphs
 
 ## Fatpack
 
@@ -47,7 +56,6 @@ This project seeks to build an open list of tools, libraries on Structural Engin
 - [x] Moving Load
 - [x] Envelopes
 - [x] Influence Lines
-
 
 ## pyCUFSM
 
