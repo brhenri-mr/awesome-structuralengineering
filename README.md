@@ -80,3 +80,7 @@ This project seeks to build an open list of tools, libraries on Structural Engin
 ## Civpy
 
 [Civpy](https://civpy.readthedocs.io/en/latest/)
+
+## anaStruct
+
+[anaStrcut](https://github.com/ritchie46/anaStruct)
