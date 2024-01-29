@@ -88,3 +88,7 @@ This project seeks to build an open list of tools, libraries on Structural Engin
 ## PyNite
 
 [PyNite](https://github.com/JWock82/PyNite?tab=readme-ov-file)
+
+## xlFrame
+
+[xlFrame](https://github.com/LcnGnd/xlFrame)
