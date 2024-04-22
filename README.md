@@ -59,6 +59,9 @@ The only disadvantage of the lib is the lack of native plots. Libs written in ma
 - [x] Envelopes
 - [x] Influence Lines
 
+### STM
+[STM](https://gitlab.stud.idi.ntnu.no/martgrah/stm) is a library focused on strut and tie analysis
+
 ## pyCUFSM
 
 [pyCUFSM](https://github.com/ClearCalcs/pyCUFSM?tab=readme-ov-file)
