@@ -101,7 +101,7 @@ The only disadvantage of the lib is the lack of native plots. Libs written in ma
 
 ## xlFrame
 
-[xlFrame](https://github.com/LcnGnd/xlFrame)
+[xlFrame](https://github.com/LcnGnd/xlFrame) is a group of mod for structural analysis for Excel powered by VBA. It is a good alternative for who wanna use excel to MFE 2D.
 
 ## Fatpack
 
