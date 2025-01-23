@@ -76,11 +76,12 @@ The only disadvantage of the lib is the lack of native plots. Libs written in ma
 
 ## Nusa
 
-[Nusa](https://github.com/JorgeDeLosSantos/nusa) is a lib for MFE analysis write on Pyton. The lib use the GSHM as a engine to build the elements due to it need the GSHM installed to work that can be a restriction for use.
+[Nusa](https://github.com/JorgeDeLosSantos/nusa) is a lib for MFE analysis write on Python. The lib use the GSHM as a engine to build the elements due to it need the GSHM installed to work that can be a restriction for use.
 
 ### Features
 - [x] Visual Outputs
 - [x] Simplicty
+- [x] Slabs
 
 ## Trusspy
 
