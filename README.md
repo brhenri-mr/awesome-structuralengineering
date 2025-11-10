@@ -1,5 +1,5 @@
 # StructuralEngineering
-This project seeks to build an open list of tools, libraries on Structural Engineering: the objective of this project is to organize all available resources on the topic in one environment, making it easier to search for tools.
+This project aim to build an open list of tools, libraries on Structural Engineering: the objective of this project is to organize all available resources on the topic in one environment, making it easier to search for tools and even expand the structural engineering environment at github.
 
 ## Section Properties
 
@@ -22,11 +22,11 @@ This project seeks to build an open list of tools, libraries on Structural Engin
 
 ## Symbeam
 
-[Symbeam](https://github.com/amcc1996/symbeam) is a library written in Python for educational purposes. The library models simple or continuous beams with different loading situations. The module has a plot of the bending moment, shear force and displacement of the element.
+[Symbeam](https://github.com/amcc1996/symbeam) is a library wrote in Python for educational purposes. The library models simple or continuous beams with different loading situations. The module has a plot of the bending moment, shear force and displacement of the element.
 
 ## Pystra
 
-[Pystra](https://github.com/pystra/pystra?tab=readme-ov-file) is a library written in Python focused on structural reliability. The library has the most used methods for determining the design point, such as FOSM, FORM, Monte Carlo and SORM. Provide easy implementation of limit states and analyses, in addition to rich documentation and theory
+[Pystra](https://github.com/pystra/pystra?tab=readme-ov-file) is a library wrote in Python focused on structural reliability. The library has the most used methods for determining the design point, such as FOSM, FORM, Monte Carlo and SORM. Provide easy implementation of limit states and analyses, in addition to rich documentation and theory
 
 ### Features
 - [x] FORM
@@ -35,7 +35,7 @@ This project seeks to build an open list of tools, libraries on Structural Engin
 - [x] Monte Carlo
 - [ ] Plot
 
-The only disadvantage of the lib is the lack of native plots. Libs written in mathlab focuses on reliability have natively plots of the number of iterations in FORM and Monte Carlo, in addition to other graphs
+The only disadvantage of the lib is the lack of native plots. Libs wrote in mathlab focuses on reliability have natively plots of the number of iterations in FORM and Monte Carlo, in addition to other graphs
 
 ## PyNite
 
@@ -45,7 +45,6 @@ The only disadvantage of the lib is the lack of native plots. Libs written in ma
 - [x] 3D structure analysis
 - [x] Plane analysis
 - [x] Load combinations
-
 
 ## Pycba
 
@@ -70,7 +69,7 @@ The only disadvantage of the lib is the lack of native plots. Libs written in ma
 - [x] Material and section Database
 
 ### STM
-[STM](https://gitlab.stud.idi.ntnu.no/martgrah/stm) is a library focused on strut and tie analysis
+[STM](https://gitlab.stud.idi.ntnu.no/martgrah/stm) is a project wrote on Python and focus on Trust and Tie modeling. Originally, the STM was devolpe as part of a master program and the objective of STM is aligne with academic purpose. The code behaviors seem to be satisfactory however the program'sinterface is poor and counterintuitive. Overall, the code is a great opportunity as engine for other codes. 
 
 ## pyCUFSM
 
