@@ -59,6 +59,16 @@ The only disadvantage of the lib is the lack of native plots. Libs written in ma
 - [x] Envelopes
 - [x] Influence Lines
 
+## MSASect2 
+
+[MSASect2](https://github.com/zsulsw/MSASect2) pretend to be a open source software for structural analysis focus on steel sections. Even though they claim to be a open source and the license on github be apache 2.0, there are a explicit commercial license for MSASect2. Regarding the features, the project focuses on steel sections, with buckling, biaxial-bending moment and proprieties are the main characteristics of MSASect2. All this, summed with a useful interface, makes MSASect2 an extraordinary open-source software.
+
+### Features
+- [x] Biaxial Bending Moment
+- [x] Stress Analysis
+- [x] Support and export .dxf
+- [x] Material and section Database
+
 ### STM
 [STM](https://gitlab.stud.idi.ntnu.no/martgrah/stm) is a library focused on strut and tie analysis
 
