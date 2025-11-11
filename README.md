@@ -1,4 +1,4 @@
-# StructuralEngineering
+# StructuralEngineering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 This project aim to build an open list of tools, libraries on Structural Engineering: the objective of this project is to organize all available resources on the topic in one environment, making it easier to search for tools and even expand the structural engineering environment at github.
 
 ## Section Properties
