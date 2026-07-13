@@ -8,6 +8,7 @@ This project aim to build an open list of tools, libraries on Structural Enginee
 ## Concrete Properties
 
 [Concrete Properties](https://github.com/robbievanleeuwen/concrete-properties) is a rich library written in Python with a focus on reinforced concrete, Prestressed Sections, steel concrete composite sections. This library models sections with their geometric and physical properties, implementing detailed graphical views of stresses, bending moments, deformations, etc.
+[Concrete Calculator Hub](https://concreteestimatorhub.com/) is a free browser-based concrete planning resource for concrete volume, bag counts, slabs, footings, post holes, shed bases, and ready-mix quantity estimates.
 
 ### Supports standards
 - Australian standard AS 3600:2018
