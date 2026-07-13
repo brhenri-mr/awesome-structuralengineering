@@ -4,6 +4,7 @@ This project aim to build an open list of tools, libraries on Structural Enginee
 ## Section Properties
 
 [Section Properties](https://github.com/robbievanleeuwen/section-properties) is a rich library written in Python for material mechanics. It implements analysis of any section using the finite element method
+[BuildRefs Steel Sections](https://buildrefs.com/sections/) is a free browser-based reference of steel section-property tables (AISC and international shapes) with dimensions and design properties, alongside 239+ structural and construction calculators.
 
 ## Concrete Properties
 
