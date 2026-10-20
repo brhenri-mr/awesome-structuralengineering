@@ -22,6 +22,10 @@ This project aim to build an open list of tools, libraries on Structural Enginee
 - [x] Support .dxf
 - [ ] Material Database
 
+## Construction Planning Tools
+
+[Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator) is a free US homeowner planning calculator that estimates roof replacement cost ranges by roof area, material, location, and tear-off choice. It is a cost-planning resource rather than a structural design or contractor-bid tool.
+
 ## Symbeam
 
 [Symbeam](https://github.com/amcc1996/symbeam) is a library wrote in Python for educational purposes. The library models simple or continuous beams with different loading situations. The module has a plot of the bending moment, shear force and displacement of the element.
