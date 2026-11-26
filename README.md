@@ -126,3 +126,12 @@ The only disadvantage of the lib is the lack of native plots. Libs wrote in math
 ## StructPy
 
 [StructPy](https://github.com/BrianChevalier/StructPy?tab=readme-ov-file)
+
+## EduBeam
+
+[EduBeam](https://github.com/janvorisek/edubeam) is a free, open-source web app for 2D structural analysis of beams, frames and trusses, running in the browser with no installation. Its solver is the TypeScript library [EduBeam FEM](https://github.com/EduBeamApp/fem).
+
+### Features
+- [x] Beams, frames and trusses with hinges and member loads
+- [x] Reactions, normal force, shear force and bending moment diagrams, deflections
+- [x] Share links and project files
