@@ -25,6 +25,7 @@ This project aim to build an open list of tools, libraries on Structural Enginee
 ## Symbeam
 
 [Symbeam](https://github.com/amcc1996/symbeam) is a library wrote in Python for educational purposes. The library models simple or continuous beams with different loading situations. The module has a plot of the bending moment, shear force and displacement of the element.
+[PolyCalc Beam Calculator](https://www.polycalc.online/beam-calculator) is a free browser-based beam calculator that draws shear, moment and deflection diagrams for simple, cantilever and continuous beams, alongside free truss, Mohr's circle and section property tools. No signup.
 
 ## Pystra
 
